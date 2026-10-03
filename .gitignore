@@ -1,0 +1,8 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+# books, translations and agent sessions live here
+data/
+# machine-specific settings (POLYREADER_DEV_ORIGINS, …)
+.env*.local
